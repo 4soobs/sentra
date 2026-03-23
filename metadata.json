@@ -1,0 +1,5 @@
+{
+  "name": "TrustGuard AI",
+  "description": "A Chrome extension UI that rates website credibility using AI and technical metrics.",
+  "requestFramePermissions": []
+}
